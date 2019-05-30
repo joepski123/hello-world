@@ -1,2 +1,2 @@
 # hello-world
-thius is a short discription
+this is a short discription that is updated
